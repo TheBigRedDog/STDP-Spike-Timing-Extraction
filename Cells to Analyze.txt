@@ -1,0 +1,66 @@
+Cells to Analyse:
+DECREASE 50 25
+21824012 (Decrease 50/25) (P21) (EPSP Off = 5.8ms)
+21827001 (Decrease 50/25) (P17) (EPSP Off = 9.4ms) 
+21914000 (Decrease 50/25) (P17) (EPSP Off = 8.2ms) 
+21915004 (Decrease 50/25) (P17) (EPSP Off = 7.2ms) 5th Trace shows extreme depolarization: trace is showing depolarization to +100 mV
+21917001 (Decrease 50/25) (P18) (EPSP Off = 6.2ms) 
+21924011 (Decrease 50/25) (P18) (EPSP Off = 4.3ms)
+21930002 (Decrease 50/25) (P21) (EPSP Off = 7.0ms) 
+211012010 (Decrease 50/25) (P17) (EPSP Off = 8.5ms) 
+
+INCREASE 25 50
+21825002 (Increase 50/25) (P22) (EPSP Off = 9.0ms) 
+21914005 (Increase 50/25) (P17) (EPSP Off = 7.7ms) 
+21915000 (Increase 50/25) (P17) (EPSP Off = 8.2ms)
+21921013 (Increase 50/25) (P17) (EPSP Off = 7.9ms) 
+21923000 (Increase 50/25) (P17) (EPSP Off = 7.7ms) 
+21916001 (Increase 50/25) (P17) (EPSP Off = 4.9ms) 
+211015000 (Increase 50/25) (P17) (EPSP Off = 6.6ms) Fucking tried everything, no idea how I can make the algorithm work on these shitty traces.
+
+FLAT 25
+21914010 (Flat 25/25) (P17) (EPSP Off = 8.4ms) 
+21915010 (Flat 25/25) (P16) (EPSP Off = 8.0ms) 
+21921000 (Flat 25/25) (P17) (EPSP Off = 7.1ms) 
+21921017 (Flat 25/25) (P17) (EPSP Off = 5.5ms)  
+211015008 (Flat 25/25) (P17) (EPSP Off = 8.0ms) 
+211015012 (Flat 25/25) (P17) (EPSP Off = 4.9ms) 
+
+FLAT 50
+21728026 (Flat 50/50) (P17) (EPSP Off = 6.4ms) 
+21730001 (Flat 50/50) (P19) (EPSP Off = 10.5ms) 
+21730011 (Flat 50/50) (P19) (EPSP Off = 8.2ms) 
+21730021 (Flat 50/50) (P19) (EPSP Off = 6.4ms) 
+21803000 (Flat 50/50) (P20) (EPSP Off = 7.6ms) 
+21812013 (Flat 50/50) (P18) (EPSP Off = 1.5ms)
+
+FLAT 100
+21707022 (Flat 100/100) (P17) (EPSP Off = 16.4ms)       
+21709024 (Flat 100/100) (P17) (EPSP Off = 10.3ms) 
+21723009 (Flat 100/100) (P19) (EPSP Off = 5.9ms) 
+21728004 (Flat 100/100) (P22) (EPSP Off = 10.5ms) 
+21812000 (Flat 100/100) (P18) (EPSP Off = 14.5ms) 
+21816008 (Flat 100/100) (P20) (EPSP Off = 8.7ms)
+
+INCREASE 50 100
+21715005 (Increase 50/100) (EPSP Off = 8.8ms) (P18) 
+21716104 (Increase 50/100) (EPSP Off = 7.2ms) (P19) 
+21716211 (Increase 50/100) (EPSP Off = 8.4ms) (P19) 
+21720007 (Increase 50/100) (EPSP Off = 9.2ms) (P20) 
+21806003 (Increase 50/100) (EPSP Off = 8.0ms) (P19) 
+
+
+DECREASE 100 50
+21803012 (Decrease 100/50) (EPSP Off = 6.7ms) (P20) Data
+21803016 (Decrease 100/50) (EPSP Off = 8.0ms) (P20) Data
+21804003 (Decrease 100/50) (EPSP Off = 7.5ms) (P21) Data
+21816005 (Decrease 100/50) (EPSP Off = 7.1ms) (P20) Data
+21817001 (Decrease 100/50) (EPSP Off = 8.1ms) (P21) Data
+21818004 (Decrease 100/50) (EPSP Off = 9.2ms) (P17) Data
+21816015 (Decrease 100/50) (EPSP Off = 5.7ms) (P20) Data
+21812008 (Decrease 100/50) (EPSP Off = 1.7ms) (P18) Data (EPSP Almost overlaps w/presynapitc artifacts, cannot accurately tell delay between Stim and EPSP response)
+
+
+
+
+

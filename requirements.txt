@@ -1,0 +1,6 @@
+pyabf
+matplotlib
+numpy
+efel
+pandas
+tkinter
