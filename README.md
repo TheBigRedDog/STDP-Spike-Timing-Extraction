@@ -1,4 +1,4 @@
-Sorryfor the delay, I've been busy with interviewing for data engineering positions and as Karen can probably tell you, I'm not the best at replying right now...
+Sorry for the delay, I've been busy with interviewing for data engineering positions and as Karen can probably tell you, I'm not the best at replying right now...
 
 DISCLAIMER:
 These analysis scripts will ONLY WORK FOR ABF FILES. These scripts were not tested on traces recorded using sutterpatch software (the new rig) and were only used when analyzing traces from the old rig.
@@ -26,9 +26,11 @@ I have also included a list of the cells I analyzed in "Cells_to_analyze.txt". T
 The main libraries that were of use for me were as follows:
 
 pyabf - python interface for working with axon binary format files (ABF is the proprietary file format used by Axon in the ephys recording software)
+
 Docs: https://swharden.com/pyabf/
 
 efel - electrophysiology feature extraction library
+
 Docs: https://efel.readthedocs.io/en/latest/
 
 Best of luck.
