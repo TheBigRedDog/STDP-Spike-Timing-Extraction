@@ -1,5 +1,3 @@
-Sorry for the delay, I've been busy with interviewing for data engineering positions and as Karen can probably tell you, I'm not the best at replying right now...
-
 DISCLAIMER:
 These analysis scripts will ONLY WORK FOR ABF FILES. These scripts were not tested on traces recorded using sutterpatch software (the new rig) and were only used when analyzing traces from the old rig.
 
@@ -32,5 +30,3 @@ Docs: https://swharden.com/pyabf/
 efel - electrophysiology feature extraction library
 
 Docs: https://efel.readthedocs.io/en/latest/
-
-Best of luck.
